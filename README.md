@@ -4,6 +4,7 @@ Organ and blood donation is an issue of major concern today. On surveying, we fo
 
 An android application and website will connect the donors and recipients. Users can log in and choose to be a donor. Blood and organ availability of hospitals will also be added to the database. Donors will get an urgent notification if someone in their locality needs their compatible blood group or organ. The required documents will be ready for the organ donor through a link in the app. As donors, they can also donate blood at their nearest blood bank or pledge their organs. When someone is in need of blood or an organ, a person close to him can log in through his cell phone and request for help. He will be connected to the closest donor in his current location. 
 
-![Watch the video](https://www.youtube.com/watch?v=1AKfClmABxE)
-
 ![alt text](diagram.png)
+
+[![Watch the video](https://github.com/sushilk123/sushilk123.github.io/blob/main/images/organdonation.jpg)](https://www.youtube.com/watch?v=1AKfClmABxE)
+
